@@ -1,0 +1,13 @@
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\bin\Debug\PBuddy.dll
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\bin\Debug\PBuddy.pdb
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\bin\Debug\PBuddy.PBuddy.apk
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\bin\Debug\PBuddy.PBuddy-Signed.apk
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\PBuddy.csprojResolveAssemblyReference.cache
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\PBuddy.dll
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\PBuddy.pdb
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\android\bin\PBuddy.PBuddy.apk
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\res\layout\main.xml
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\res\values\strings.xml
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\res\drawable\icon.png
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\R.cs.flag
+C:\Users\se-sarrizv-01\Documents\GitHub\PBuddy\PBuddy\obj\Debug\uploadflags.txt

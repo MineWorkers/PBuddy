@@ -1,0 +1,4 @@
+PBuddy.MainActivity, PBuddy;md5b2bc00b3e2a43ae0dd0762c7d99c1c4f.MainActivity
+PBuddy.MainActivity, PBuddy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b2bc00b3e2a43ae0dd0762c7d99c1c4f.MainActivity
+PBuddy.MainActivity;md5b2bc00b3e2a43ae0dd0762c7d99c1c4f.MainActivity
+pbuddy.MainActivity;md5b2bc00b3e2a43ae0dd0762c7d99c1c4f.MainActivity
